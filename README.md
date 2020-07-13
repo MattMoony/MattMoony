@@ -1,5 +1,3 @@
-<img align="left" height="100px" style="border-radius:50%" src="media/goose.jpg" />
-
 # Hi there, I'm Matthias 👋👾
 
 ... a 17 y/o developer / student from Austria who has yet to decide how to properly structure / with what to fill such a general `README.md`. In the mean time, this little information will have to suffice.
