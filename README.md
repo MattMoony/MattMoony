@@ -1,4 +1,4 @@
-<img align="right" height="200px" src="https://raw.githubusercontent.com/MattMoony/MattMoony/master/media/goose.png" />
+<img align="right" style="height: 200px; image-rendering: pixelated;" src="https://raw.githubusercontent.com/MattMoony/MattMoony/master/media/goose.gif" />
 
 # Hi there, I'm Matthias 👋👾
 
