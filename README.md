@@ -5,7 +5,7 @@
 
 ... a 17 y/o developer / student from Austria interested in many things ranging from Infosec to optimizing performance with algorithms & datastructures. I'm currently studying at [HTBLA Kaindorf](https://www.htl-kaindorf.at/) and working on several open-source projects in my free time. 
 
-Take a look around - I hope you'll find something, you're interested in / you'd like to mess around with. So... Have fun, _bye! ¡Adiós! Tschüss!_
+Take a look around - I hope you'll find something you're interested in / you'd like to mess around with. So... Have fun, _bye! ¡Adiós! Tschüss!_
 
 * 🏫 I'm currently attending school
 * 💻 I'm learning many new things about IT every day
