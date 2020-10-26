@@ -10,4 +10,5 @@ Take a look around - I hope you'll find something you're interested in / you'd l
 * 🏫 I'm currently attending school
 * 💻 I'm learning many new things about IT every day
 * 👯 I'd love to collaborate with people on open-source projects
+* 🎮 CTFing with [@B34nB01z](https://github.com/B34nB01z) and [@LosFuzzys](https://github.com/LosFuzzys)
 * 📬 Contact me at `m4ttm00ny at gmail dot com`
