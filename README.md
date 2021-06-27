@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Matthias 👋👾</h3>
 <p align="center">
-    ~ <a href="https://mattmoony.github.io" style="margin: 0 2.5px">🔗 Website</a> • <a href="https://twitter.com/MattMoony" style="margin: 0 2.5px">🦆 Twitter</a> • <a href="https://www.instagram.com/matt_moony/" style="margin: 0 2.5px">📷 Instagram</a> ~
+    ~ <a href="https://m4ttm00ny.xyz" style="margin: 0 2.5px">🔗 Website</a> • <a href="https://twitter.com/MattMoony" style="margin: 0 2.5px">🦆 Twitter</a> • <a href="https://www.instagram.com/matt_moony/" style="margin: 0 2.5px">📷 Instagram</a> ~
 </p>
 
 ---
