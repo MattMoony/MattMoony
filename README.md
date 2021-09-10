@@ -19,5 +19,5 @@ Take a look around - I hope you'll find something you're interested in / you'd l
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MattMoony&theme=tokyonight&count_private=true&show_icons=true" height="150px" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattMoony&layout=compact&theme=tokyonight" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattMoony&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="150px" />
 </div>
