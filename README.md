@@ -5,7 +5,7 @@
 
 ---
 
-... a 20 y/o developer / student from Austria interested in many things ranging from IT-sec to optimizing performance with algorithms & datastructures. I'm currently working on several open-source projects in my free time. 
+... a 21 y/o developer / student from Austria interested in many things ranging from IT-sec to optimizing performance with algorithms & data structures. I'm currently studying Informatics at TU Wien and I work on several open-source projects in my free time.
 
 Take a look around - I hope you'll find something you're interested in / you'd like to mess around with. So... Have fun, _bye! ¡Adiós! Tschüss!_
 
