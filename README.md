@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Matthias 👋👾</h3>
 <p align="center">
-    ~ <a href="https://m4ttm00ny.xyz" style="margin: 0 2.5px">🔗 Website</a> • <a href="https://twitter.com/MattMoony" style="margin: 0 2.5px">🦆 Twitter</a> • <a href="https://www.instagram.com/matt_moony/" style="margin: 0 2.5px">📷 Instagram</a> ~
+    ~ <a href="https://m4ttm00ny.xyz" style="margin: 0 2.5px">🔗 Website</a> • <a href="https://twitter.com/MattMoony" style="margin: 0 2.5px">🦆 Twitter</a> ~
 </p>
 
 ---
@@ -11,7 +11,6 @@ Take a look around - I hope you'll find something you're interested in / you'd l
 
 * 💻 I'm learning many new things about IT every day
 * 👯 I'd love to collaborate with people on open-source projects
-* 🎮 CTFing with [@B34nB01z](https://github.com/B34nB01z) and [@LosFuzzys](https://github.com/LosFuzzys)
 * 📬 Contact me at `m4ttm00ny at gmail dot com`
 
 ---
